@@ -54,4 +54,4 @@
 - Auto-generated FAQ based on script usage
 
 
-Available At (https://chatgpt.com/g/g-683bf3d24b0c81918697a75e956bc33a-luacrafter-fivem-edition)[LuaCrafter: FiveM Official GPT Page]
+Available At [LuaCrafter: FiveM Official GPT Page](https://chatgpt.com/g/g-683bf3d24b0c81918697a75e956bc33a-luacrafter-fivem-edition)
